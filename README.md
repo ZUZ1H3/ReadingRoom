@@ -1,4 +1,4 @@
-## 라즈베리 파이를 이용한 집중열람실 시스템
+## 라즈베리 파이를 이용한 집중열람실 시스템🐥
 2023년 2학년 2학기 모바일&스마트시스템 기말 프로젝트입니다.
 
 ## 작품 개요 
@@ -10,5 +10,5 @@
 로 경고등이 켜진다.
 
 ## 프로젝트 구조
-<img src="https://github.com/user-attachments/assets/6bc36c9c-435f-4c7f-9b13-10675cae5e21" alt="image" width="500"/>
+<img src="https://github.com/user-attachments/assets/6bc36c9c-435f-4c7f-9b13-10675cae5e21" alt="image" width="700"/>
 
