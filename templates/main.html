@@ -1,0 +1,62 @@
+<!--초기 화면 (입실 버튼과 관리 버튼)-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>집중열람실</title>
+    <style>
+        body {
+            font-family: '카페24 써라운드 에어', serif;
+        }
+
+        .container {
+            border: 2px solid #ddd;
+            padding-bottom: 65px;
+            text-align: center;
+            margin-top: 15%;
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 60px;
+            margin-top: 65px;
+        }
+
+        .submit {
+            font-family: '카페24 써라운드 에어', serif;
+            background-color: #385ca5;
+            color: white;
+            padding: 20px 35px;
+            font-size: 22px;
+            border-radius: 6px;
+            border: none;
+            cursor: pointer;
+            width: 150px;
+        }
+
+        form {
+            display: inline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>⋆ 한성대학교 집중열람실 ⋆</h1><br>
+        <form action="/user" method="get">
+            <button type="submit" class="submit">
+                입실
+            </button>
+        </form>
+        <form action="/manager" method="get">
+            <button type="submit" class="submit">
+                관리
+            </button>
+        </form>
+    </div>
+</body>
+
+</html>
